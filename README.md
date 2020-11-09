@@ -15,3 +15,7 @@ Requirement Tools
     python3 Requirement.py
     
     python3 Apk-Took.py
+
+Using Apk-Tool Guide
+
+    https://youtu.be/hVNrTie0mi8
