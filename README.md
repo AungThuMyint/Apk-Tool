@@ -4,19 +4,15 @@ APK Extractor, Builder, KeyStore Generator
 
 Requirement Tools
 
-  1# apktool
-  
-  2# jarsigner
+    apktool, keytool, python3, 
+    
+    jarsigner
     
       update-alternatives --config java
       
       choose manual mode
-  
-  3# keytool
-  
-  4# python3
-  
- Installation Step
+ 
+ Installation Setup
  
     python3 Requirement.py
     
