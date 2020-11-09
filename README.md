@@ -8,9 +8,7 @@ Requirement Tools
     
     jarsigner
     
-      update-alternatives --config java
-      
-      choose manual mode
+      update-alternatives --config java [choose manual mode]
  
  Installation Setup
  
