@@ -18,6 +18,6 @@ Requirement Tools
   
  Installation Step
  
- (1) python3 Requirement.py
- 
- (2) python3 Apk-Took.py
+    python3 Requirement.py
+    
+    python3 Apk-Took.py
