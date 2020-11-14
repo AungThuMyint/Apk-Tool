@@ -24,6 +24,6 @@
 
 <img src="https://github.com/AungThuMyint/Apk-Tool/blob/main/PreView.png">
 
-# Using Apk-Tool Guide
+# Using Apk-Tool Guide (YouTube)
 
-[![YouTube](https://i.ytimg.com/vi/hVNrTie0mi8/hqdefault.jpg)](https://www.youtube.com/watch?v=hVNrTie0mi8&feature=youtu.be)
+[![](https://i.ytimg.com/vi/hVNrTie0mi8/hqdefault.jpg)](https://www.youtube.com/watch?v=hVNrTie0mi8&feature=youtu.be)
